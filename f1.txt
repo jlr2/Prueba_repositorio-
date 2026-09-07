@@ -2,5 +2,3 @@ hola2
 cambio2
 cambio3
 cambio4
-cambio6
-cambio7
