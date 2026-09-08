@@ -15,7 +15,4 @@ cambio19
 cambio21
 cambio22
 cambio23
-¡
-=======
-cambio20
->>>>>>> parent of 99df477 (cambio 21)
+cambio24
